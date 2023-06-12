@@ -4,7 +4,7 @@
 
 Skills: PYTHON/ DJANGO / DJANGO REST / MYSQL / POSTGRESQL / WEB FRAMEWORK
 
-- 🔭 I’m currently working on this page. 
+
 - 🌱 I’m currently learning Machine Learning 
 
 
