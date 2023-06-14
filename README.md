@@ -12,5 +12,9 @@ Skills: PYTHON/ DJANGO / DJANGO REST / MYSQL / POSTGRESQL / WEB FRAMEWORK
 
 
 <!--
+Most Language: [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Parvez49)](https://github.com/Parvez49/github-readme-stats)
+
+
+
 Profile creator: https://arturssmirnovs.github.io/github-profile-readme-generator/
 -->
